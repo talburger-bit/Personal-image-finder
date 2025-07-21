@@ -1,6 +1,4 @@
 # Personal-image-finder
-This project automatically selects the most relevant images from a Google Drive folder to match content blocks
-# AI Image Selector App
 
 This app automatically selects the best matching images from a Google Drive folder for each content block in a Google Sheet.
 
